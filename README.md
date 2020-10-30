@@ -104,3 +104,6 @@ F1 score = 2(Precision x  Recall)/(Precision + Recall)  is the harmonic mean of 
     <br/>
     <img src="https://user-images.githubusercontent.com/18646185/87218844-1db14180-c374-11ea-8c5c-ee6ce3c7ab99.jpg" width="600" />
 </p>
+
+## new line added
+
